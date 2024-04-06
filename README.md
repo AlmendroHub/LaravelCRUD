@@ -10,6 +10,8 @@
 <p align="center">
     <img src="https://i.imgur.com/I83LMnm.png" width="400" alt="Laravel Administrator Panel">
     <img src="https://i.imgur.com/Sc7kqYy.png" width="400" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/Tg81btu.png" width="400" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/b5Y3TZU.png" width="400" alt="Laravel Administrator Panel">
 </p>
 
 It's a MVC CRUD using the next technologies:
