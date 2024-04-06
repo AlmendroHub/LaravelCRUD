@@ -14,5 +14,26 @@ English
 
 
 
+
 Español
 -------
+Trata sobre un CRUD en MVC realizado con las siguientes tecnologías:
+
+- CSS3
+- HTML5
+- Laravel
+- Jetstream
+- Blade
+- Bootstrap
+- JS & JQuery & Typescript
+- PHP 
+- XAMPP + MySQL 
+
+Respecto al proyecto, empieza con la simulación del típico login, pero para poder acceder a las ventanas, se puede acceder directamente 
+con las siguientes rutas:
+
+- Login -> localhost
+- Panel Administrador -> localhost/articulos#
+- Crear Artículo -> localhost/articulos/create
+- Editar Artículo -> localhost/articulos/(id del artículo seleccionado)/edit
+- Borrar Artículo -> localhost/articulos#
