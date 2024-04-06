@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About The Project
+## Laravel Administrator Panel 💻
 <p align="center">
     <img src="https://i.imgur.com/Sc7kqYy.png" width="500" alt="Log In">
     <img src="https://i.imgur.com/I83LMnm.png" width="500" alt="Laravel Administrator Panel">
