@@ -8,7 +8,8 @@
 
 ## About The Project
 <p align="center">
-    <img src="https://i.imgur.com/I83LMnm.png" alt="Laravel Administrator Panel">   
+    <img src="https://i.imgur.com/I83LMnm.png" width="400" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/Sc7kqYy.png" width="400" alt="Laravel Administrator Panel">
 </p>
 
 It's a MVC CRUD using the next technologies:
