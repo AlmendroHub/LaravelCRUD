@@ -11,9 +11,25 @@
     <img src="https://i.imgur.com/I83LMnm.png" alt="Laravel Administrator Panel">   
 </p>
 
+It's a MVC CRUD using the next technologies:
 
+- CSS3
+- HTML5
+- Laravel
+- Jetstream
+- Blade
+- Bootstrap
+- JS & JQuery & Typescript
+- PHP 
+- XAMPP + MySQL
 
+About the project, starts with a login simulation, but it's easy to jump between the pages using the routes:
 
+- Login -> localhost
+- Administrator Panel -> localhost/articulos#
+- Create Article -> localhost/articulos/create
+- Edit Article -> localhost/articulos/(id of the selected article)/edit
+- Delete Article -> localhost/articulos#
 
 Español
 -------
