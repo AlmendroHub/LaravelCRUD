@@ -8,10 +8,10 @@
 
 ## About The Project
 <p align="center">
-    <img src="https://i.imgur.com/I83LMnm.png" width="600" alt="Laravel Administrator Panel">
-    <img src="https://i.imgur.com/Sc7kqYy.png" width="600" alt="Laravel Administrator Panel">
-    <img src="https://i.imgur.com/Tg81btu.png" width="600" alt="Laravel Administrator Panel">
-    <img src="https://i.imgur.com/b5Y3TZU.png" width="600" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/I83LMnm.png" width="550" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/Sc7kqYy.png" width="550" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/Tg81btu.png" width="550" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/b5Y3TZU.png" width="550" alt="Laravel Administrator Panel">
 </p>
 
 It's a MVC CRUD using the next technologies:
