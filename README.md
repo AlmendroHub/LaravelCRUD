@@ -8,7 +8,7 @@
 
 ## About The Project
 <p align="center">
-    <img src="https://i.imgur.com/I83LMnm.png" width="400" alt="Laravel Administrator Panel">   
+    <img src="https://i.imgur.com/I83LMnm.png" alt="Laravel Administrator Panel">   
 </p>
 
 
