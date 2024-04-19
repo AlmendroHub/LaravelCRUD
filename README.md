@@ -8,10 +8,10 @@
 
 ## Laravel Administrator Panel 💻
 <p align="center">
-    <img src="https://i.imgur.com/Sc7kqYy.png" width="500" alt="Log In">
-    <img src="https://i.imgur.com/I83LMnm.png" width="500" alt="Laravel Administrator Panel">
-    <img src="https://i.imgur.com/b5Y3TZU.png" width="500" alt="Crear">
-    <img src="https://i.imgur.com/Tg81btu.png" width="500" alt="Editar">
+    <img src="https://i.imgur.com/Sc7kqYy.png" width="300" alt="Log In">
+    <img src="https://i.imgur.com/I83LMnm.png" width="300" alt="Laravel Administrator Panel">
+    <img src="https://i.imgur.com/b5Y3TZU.png" width="300" alt="Crear">
+    <img src="https://i.imgur.com/Tg81btu.png" width="300" alt="Editar">
     
 </p>
 
